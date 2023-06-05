@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image/x-icon" href="assets/img/icon.png">
+
+    <link rel="stylesheet" href="assets/css/css-error/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/css-index/style.css">
+
+    <script src="https://kit.fontawesome.com/661d3708db.js" crossorigin="anonymous"></script>
+
+    <meta name="theme-color" content="#B917DE"/>
+
+    <meta name="twitter:title" content="KaelynnDev ✰෴✰"/>
+    <meta name="twitter:description" content="*°:⋆ₓₒ Bienvenue dans mon monde ! Bonne lecture, amuse-toi bienˋ★ˊ˗♡ ღ"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image" content="https://cdn.discordapp.com/attachments/983404364431519774/1016871405947727944/bg-2.png?size=4096"/>
+
+    <meta property="og:title" content="KaelynnDev ✰෴✰"/>
+    <meta property="og:description" content="*°:⋆ₓₒ Bienvenue dans mon monde ! Bonne lecture, amuse-toi bienˋ★ˊ˗♡ ღ" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://kaelynndev.fr/" />
+    <meta property="og:image" content="https://cdn.discordapp.com/attachments/983404364431519774/1016871405947727944/bg-2.png?size=4096" />
+
+    <meta property="article:published_time" content="2022-08-18T00:00:00+00:00" />
+    <meta property="article:modified_time" content="2022-08-18T00:00:00+00:00" />
+
+    <title>KaelynnDev</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="text-p">
+            <h1>≥★Kaelynn (≥o≤)</h1>
+            <p>
+                Étudiant en BTS SIO avec option SISR (Réseau&Cybersécurité) | Passionné par l'informatique, d'hardware, de réseau et de cybersécurité.
+                    <br>
+                Utilisateur Windows & Linux<br><br>
+                le site est constamment en développement ! 
+                    <br>
+                ☆;.°~¸¸✧ — 
+            </p>
+        </div>
+    </div>
+    <div class="container-fluid-a">
+        <!-- <div class="text-a">
+            <h1><a href="nop">les nouveautés</a></h1>
+                <p>Toutes les nouveautés du site, de mes projets etc.. répertoriées ici !</p>
+                <h6>écrit le 18/08/2022</h6>
+                <h6>modifié le 07/09/2022</h6>
+        </div> -->
+        <!-- <hr style="width:50%; margin-left:25% !important; margin-right:25% !important;"> -->
+        <div class="text-a">
+            <h1><a href="whoami">qui suis-je ?</a></h1>
+                <p>random-user@kaelynndevfr:~$ whoami<br>
+                > kaelynn</p>
+                <!-- <h6>écrit le 18/08/2022</h6>
+                <h6>modifié le 07/09/2022</h6> -->
+        </div>
+        <div class="text-a">
+            <h1><a href="mes-machines">présentation de mes machines</a></h1>
+                <p>Dans cet article il y aura la configuration de mes différentes machines sur lesquelles je travaille.</p>
+                <!-- <h6>écrit le 17/08/2022</h6> -->
+        </div>
+        <!-- <div class="text-a">
+            <h1><a href="page-introuvable">Zone 2 Test</a></h1>
+            <p>Ici vous retrouverez mes projets/tests actuellement en court &/ou fini</p>
+        </div> -->
+    </div>
+    <div class="end">
+        <p>
+        <span-white>°°°°°°°°°°</span-white>
+        <br>
+        <a href="https://github.com/0ver1r4cK-n3etwork" target="_blank"><i class="fa-brands fa-github"></i></a> <span-white>|</span-white> <a href="https://discord.kaelynndev.fr" target="_blank"><i class="fa-brands fa-discord"></i></a>
+        <br>
+        <h2>*°:⋆ₓₒ Mentions légales © 2018 - 2022, Tous droits réservés | KaelynnDev.fr</h2>
+    </p>
+</div>
+    
+</body>
+</html>
